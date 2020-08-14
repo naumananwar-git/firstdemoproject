@@ -1,3 +1,5 @@
 hello world
 Demo change
 git pull demo
+
+smart git locally
